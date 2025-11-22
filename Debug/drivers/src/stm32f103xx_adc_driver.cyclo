@@ -1,0 +1,8 @@
+../drivers/src/stm32f103xx_adc_driver.c:11:6:ADC_PeriClockControl	6
+../drivers/src/stm32f103xx_adc_driver.c:26:6:ADC_Init	7
+../drivers/src/stm32f103xx_adc_driver.c:122:6:ADC_Enable	2
+../drivers/src/stm32f103xx_adc_driver.c:129:6:ADC_StartConversion	1
+../drivers/src/stm32f103xx_adc_driver.c:135:10:ADC_ReadValue	3
+../drivers/src/stm32f103xx_adc_driver.c:150:6:ADC_EnableScanMode	2
+../drivers/src/stm32f103xx_adc_driver.c:157:6:ADC_SetSequence	6
+../drivers/src/stm32f103xx_adc_driver.c:190:6:ADC_Calibrate	3
